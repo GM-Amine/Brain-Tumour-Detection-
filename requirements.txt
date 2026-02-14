@@ -1,0 +1,15 @@
+# Brain Tumor Detector - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Deep Learning Framework
+tensorflow>=2.13.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Scientific Computing
+numpy>=1.24.0
+
+# Optional: For creating executable
+# pyinstaller>=5.13.0
