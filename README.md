@@ -291,4 +291,4 @@ Ce projet est à des fins éducatives uniquement.
 
 **Version** : 1.0  
 **Date** : Février 2026  
-**Auteur** : Votre Nom
+**Auteur** : GOUGAM Mohamed Amine
